@@ -1,0 +1,50 @@
+digest: 932ddd2d
+name: dataset
+profile: '{"num_rows": 36168, "num_elements": 1808400}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "numerical__age", "required":
+  true}, {"type": "double", "name": "numerical__balance", "required": true}, {"type":
+  "double", "name": "numerical__day", "required": true}, {"type": "double", "name":
+  "numerical__campaign", "required": true}, {"type": "double", "name": "numerical__pdays",
+  "required": true}, {"type": "double", "name": "numerical__previous", "required":
+  true}, {"type": "double", "name": "categorical__job_admin.", "required": true},
+  {"type": "double", "name": "categorical__job_blue-collar", "required": true}, {"type":
+  "double", "name": "categorical__job_entrepreneur", "required": true}, {"type": "double",
+  "name": "categorical__job_housemaid", "required": true}, {"type": "double", "name":
+  "categorical__job_management", "required": true}, {"type": "double", "name": "categorical__job_retired",
+  "required": true}, {"type": "double", "name": "categorical__job_self-employed",
+  "required": true}, {"type": "double", "name": "categorical__job_services", "required":
+  true}, {"type": "double", "name": "categorical__job_student", "required": true},
+  {"type": "double", "name": "categorical__job_technician", "required": true}, {"type":
+  "double", "name": "categorical__job_unemployed", "required": true}, {"type": "double",
+  "name": "categorical__job_unknown", "required": true}, {"type": "double", "name":
+  "categorical__marital_divorced", "required": true}, {"type": "double", "name": "categorical__marital_married",
+  "required": true}, {"type": "double", "name": "categorical__marital_single", "required":
+  true}, {"type": "double", "name": "categorical__education_primary", "required":
+  true}, {"type": "double", "name": "categorical__education_secondary", "required":
+  true}, {"type": "double", "name": "categorical__education_tertiary", "required":
+  true}, {"type": "double", "name": "categorical__education_unknown", "required":
+  true}, {"type": "double", "name": "categorical__default_no", "required": true},
+  {"type": "double", "name": "categorical__default_yes", "required": true}, {"type":
+  "double", "name": "categorical__housing_no", "required": true}, {"type": "double",
+  "name": "categorical__housing_yes", "required": true}, {"type": "double", "name":
+  "categorical__loan_no", "required": true}, {"type": "double", "name": "categorical__loan_yes",
+  "required": true}, {"type": "double", "name": "categorical__contact_cellular", "required":
+  true}, {"type": "double", "name": "categorical__contact_telephone", "required":
+  true}, {"type": "double", "name": "categorical__contact_unknown", "required": true},
+  {"type": "double", "name": "categorical__month_apr", "required": true}, {"type":
+  "double", "name": "categorical__month_aug", "required": true}, {"type": "double",
+  "name": "categorical__month_dec", "required": true}, {"type": "double", "name":
+  "categorical__month_feb", "required": true}, {"type": "double", "name": "categorical__month_jan",
+  "required": true}, {"type": "double", "name": "categorical__month_jul", "required":
+  true}, {"type": "double", "name": "categorical__month_jun", "required": true}, {"type":
+  "double", "name": "categorical__month_mar", "required": true}, {"type": "double",
+  "name": "categorical__month_may", "required": true}, {"type": "double", "name":
+  "categorical__month_nov", "required": true}, {"type": "double", "name": "categorical__month_oct",
+  "required": true}, {"type": "double", "name": "categorical__month_sep", "required":
+  true}, {"type": "double", "name": "categorical__poutcome_failure", "required": true},
+  {"type": "double", "name": "categorical__poutcome_other", "required": true}, {"type":
+  "double", "name": "categorical__poutcome_success", "required": true}, {"type": "double",
+  "name": "categorical__poutcome_unknown", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Regis", "mlflow.source.name": "modelling.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "450008223e03b4eda16f58a357f9e186e1956910"}}'
+source_type: code

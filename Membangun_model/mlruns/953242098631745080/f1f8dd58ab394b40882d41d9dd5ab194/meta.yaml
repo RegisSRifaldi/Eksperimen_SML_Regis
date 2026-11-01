@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Eksperimen_SML_Regis-Syawaludin-Rifaldi/Membangun_model/mlruns/953242098631745080/f1f8dd58ab394b40882d41d9dd5ab194/artifacts
+end_time: 1793516025479
+entry_point_name: ''
+experiment_id: '953242098631745080'
+lifecycle_stage: active
+run_id: f1f8dd58ab394b40882d41d9dd5ab194
+run_name: Random Forest Tuning
+run_uuid: f1f8dd58ab394b40882d41d9dd5ab194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793515984046
+status: 3
+tags: []
+user_id: Regis

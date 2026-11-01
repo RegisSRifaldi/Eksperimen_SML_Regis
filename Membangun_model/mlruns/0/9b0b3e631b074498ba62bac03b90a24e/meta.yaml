@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Eksperimen_SML_Regis-Syawaludin-Rifaldi/Membangun_model/mlruns/0/9b0b3e631b074498ba62bac03b90a24e/artifacts
+end_time: 1793515575890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b0b3e631b074498ba62bac03b90a24e
+run_name: classy-bat-348
+run_uuid: 9b0b3e631b074498ba62bac03b90a24e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793515556607
+status: 3
+tags: []
+user_id: Regis

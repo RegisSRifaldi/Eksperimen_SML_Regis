@@ -24,8 +24,8 @@ Eksperimen_SML_X/
 │       └── bank_full_raw.csv
 ├── preprocessing/
 │   ├── processed/
-│   ├── automate_X.py
-│   └── eksperimen.ipynb
+│   ├── aautomate_Regis-Syawaludin-Rifaldi.py
+│   └── Eksperimen_Regis-Syawaludin-Rifaldi.ipynb
 ├── requirements.txt
 └── README.md
 ```
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 Jalankan otomatisasi preprocessing dari root repository:
 
 ```bash
-python preprocessing/automate_X.py
+python preprocessing/automate_Regis-Syawaludin-Rifaldi.py
 ```
 
 ## Teknologi
